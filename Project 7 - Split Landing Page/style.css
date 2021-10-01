@@ -6,8 +6,8 @@
     --left-btn-hover-color:  rgba( 87, 84, 236, 1);
     --right-btn-hover-color: rgba( 28, 122, 28, 1);
     --hover-width: 75%;
-    --unhover-width: 25;
-    --transition-speed: 900ms;
+    --unhover-width: 25%;
+    --transition-speed: 950ms;
 }
 
 * {
